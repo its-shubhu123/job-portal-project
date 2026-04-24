@@ -1,4 +1,7 @@
+
 # Job Portal (Mini LinkedIn)
+
+# Live Demo : https://job-portal-app-green.vercel.app/
 
 A full-stack **Job Portal** built using the **MERN Stack**, featuring secure authentication, role-based access, job listings, and application management.
 
